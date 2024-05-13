@@ -1,3 +1,1 @@
-# Minimal-Blog
-# Minimal-Blog-Card
-# Minimal-Blog-Card
+Preview: https://6641ac92bad0a36cde052afb--resonant-alfajores-cd578b.netlify.app/
