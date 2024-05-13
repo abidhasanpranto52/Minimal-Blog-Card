@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+* {
+    background-color: #FAFAF9;
+    align-items: center;
+    align-items: center;
+    margin: auto;
+    font-family: "Sora", sans-serif;
+}
+
+.card {
+    align-items: center;
+    justify-content: center;
+    width: 388px;
+    margin-top: 164px;
+    border-radius: 5px;
+    padding: 16px;
+    background: white;
+    box-shadow: 0px 30px 100px 0px rgba(18, 66, 208, 0.084);
+}
+
+.card_img {
+    background: url(cactus_img.jpg);
+    background-size: cover;
+    height: 180px;
+    margin: auto;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+button {
+    color: #883AE1;
+    padding: 5px 10px;
+    font-weight: bold;
+    background-color: #E6D6FC;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+h2{
+    font-size: 18px;
+    background: #fff;
+}
+h4{
+    font-size: 14px;
+    font-weight: 400;
+    background: #fff;
+    color: #6C727F;
+    margin-bottom: 20px;
+}
+p{
+    background: #fff;
+    margin-top: 10px;
+    font-size: 12px;
+}
